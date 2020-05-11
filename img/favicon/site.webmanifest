@@ -1,0 +1,14 @@
+{
+    "name": "SpaceX",
+    "short_name": "SpaceX",
+    "icons": [
+        {
+            "src": "img/favicon/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#333333",
+    "background_color": "#333333",
+    "display": "standalone"
+}

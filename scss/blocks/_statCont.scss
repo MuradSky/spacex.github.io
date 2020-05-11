@@ -1,0 +1,29 @@
+.statistic__item:hover .content--number{
+    color: $white_01;
+}
+.statistic__content{
+    text-align: center;
+    color: $white_02;
+    transition: all .2s linear;
+}
+
+.statistic__title{
+    font-size: 16px;
+    font-family: 'Museo Sans Cyrl 100';
+    font-weight: 100;
+}
+.statistic__number{
+    font-size: 55px;
+    font-family: 'MuseoSansCyrlW03-700';
+    letter-spacing: -1px;
+}
+.statistic__subtitle{
+    font-size: 16px;
+    font-family: 'Museo Sans Cyrl 100';
+    font-weight: 100; 
+}
+.statistic__number--letter{
+    font-size: 16px;
+    display: inline;
+    margin-left: 2px;
+}
